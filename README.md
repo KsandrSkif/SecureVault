@@ -1,8 +1,14 @@
-# SecureVault
+SecureVault — безопасное хранилище паролей
 
-v 1.1.7
+https://img.shields.io/badge/версия-1.1.8-blue.svg
+https://img.shields.io/badge/license-MIT-green.svg
+https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg
+https://img.shields.io/badge/шифрование-AES--256--GCM-orange.svg
+https://img.shields.io/badge/биометрия-поддерживается-success.svg
+https://img.shields.io/badge/build-passing-brightgreen.svg
+https://img.shields.io/badge/Java-11%2B-informational.svg
 
-
+---
 Локальный менеджер паролей без облачной синхронизации, с целью полной безопасности.
 
 ---
