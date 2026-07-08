@@ -1,12 +1,12 @@
-SecureVault — безопасное хранилище паролей
+# SecureVault — безопасное хранилище паролей
 
-https://img.shields.io/badge/версия-1.1.8-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg
-https://img.shields.io/badge/шифрование-AES--256--GCM-orange.svg
-https://img.shields.io/badge/биометрия-поддерживается-success.svg
-https://img.shields.io/badge/build-passing-brightgreen.svg
-https://img.shields.io/badge/Java-11%2B-informational.svg
+[![Версия](https://img.shields.io/badge/версия-1.1.8-blue.svg)](https://github.com/yourusername/securevault/releases)
+[![Лицензия](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)](https://developer.android.com)
+[![Шифрование](https://img.shields.io/badge/шифрование-AES--256--GCM-orange.svg)](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
+[![Биометрия](https://img.shields.io/badge/биометрия-поддерживается-success.svg)](https://developer.android.com/training/biometric-auth)
+[![Статус сборки](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/securevault/actions)
+[![Кодовая база](https://img.shields.io/badge/Java-11%2B-informational.svg)](https://openjdk.org/projects/jdk/11/)
 
 ---
 Локальный менеджер паролей без облачной синхронизации, с целью полной безопасности.
