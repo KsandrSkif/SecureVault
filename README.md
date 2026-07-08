@@ -1,6 +1,6 @@
 # SecureVault — безопасное хранилище паролей
 
-[![Версия](https://img.shields.io/badge/версия-1.1.8-blue.svg)](https://github.com/yourusername/securevault/releases)
+[![Версия](https://img.shields.io/badge/версия-1.1.8-blue.svg&logo=github)](https://github.com/yourusername/securevault/releases)
 [![Лицензия](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)](https://developer.android.com)
 [![Шифрование](https://img.shields.io/badge/шифрование-AES--256--GCM-orange.svg)](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
