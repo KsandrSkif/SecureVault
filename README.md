@@ -2,7 +2,7 @@
 
 [![Версия](https://img.shields.io/badge/версия-1.1.8.3-blue.svg)](https://github.com/yourusername/securevault/releases)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="145" height="20"><rect x="0" y="0" width="69" height="20" fill="#555" rx="4"/><rect x="69" y="0" width="76" height="20" fill="#007ec6" rx="4"/><text x="34" y="14" fill="#fff" font-size="11" text-anchor="middle">version</text><text x="107" y="14" fill="#fff" font-size="11" text-anchor="middle">v1.1.8.3</text></svg>
+[!version-v1.1.8.3](badge.svg)
 
 [![Лицензия](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)](https://developer.android.com)
